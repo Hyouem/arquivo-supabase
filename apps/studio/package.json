@@ -111,7 +111,7 @@
     "d3-geo": "^3.1.1",
     "dayjs": "^1.11.10",
     "dev-tools": "workspace:*",
-    "effect": "4.0.0-rc.112",
+    "effect": "4.1.2",
     "file-saver": "^2.0.5",
     "fuse.js": "^7.4.0",
     "generate-password-browser": "^1.1.0",
